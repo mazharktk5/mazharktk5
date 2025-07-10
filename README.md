@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mazhar Ahmad</h1>
+<!-- <h1 align="center">Hi 👋, I'm Mazhar Ahmad</h1>
 <h3 align="center">💻 Full Stack Developer | 🤖 Future AI & Robotics Engineer</h3>
 
 <p align="center">
@@ -75,4 +75,55 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+🚀" alt="Typing SVG" />
+</p> -->
+
+
+# Welcome to My GitHub Profile! 👋
+
+Hello there! I'm **Mazhar Ahmad**, a passionate developer from Pakistan. Welcome to my GitHub profile. Here you'll find a collection of my open-source projects, contributions, and learning journey.
+
+I’m currently a **5th semester Computer Science student at the University of Peshawar** and a **Full Stack Developer (MERN)**. I'm also exploring the exciting world of **AI, Machine Learning, and Robotics** — always ready to embrace new challenges and technologies.
+
+## 📞 Let's Connect
+
+- 💼 LinkedIn: [linkedin.com/in/mazhar-ahmad78](https://www.linkedin.com/in/mazhar-ahmad78)
+- 📧 Email: mazharahmad862@gmail.com
+- 🧑‍💻 Portfolio: Coming Soon!
+
+## 🚀 Quick Overview
+
+- 🔭 Currently working on MERN stack projects with Tailwind CSS
+- 🌱 Learning Python for AI/ML and LeetCode problem solving
+- 💬 Ask me about JavaScript, MongoDB, Node.js, React, and Python
+- 📫 Reach me at: mazharktk5@gmail.com
+- ⚡ Fun fact: I think more about solving bugs than eating food 😄
+
+## 🛠️ Skills
+
+- **Languages:** JavaScript, Python, C++, HTML, CSS
+- **Frameworks:** React.js, Express.js, Node.js
+- **Databases:** MongoDB, Firebase
+- **Styling:** Tailwind CSS, Bootstrap
+- **Tools:** Git, GitHub, VS Code, Postman
+
+## 🌟 Featured Projects
+
+- **MERN Ecommerce App** – Admin & user dashboards, authentication, product filter, Stripe & WhatsApp order integration
+- **Weather App** – Real-time weather data using APIs
+- **Portfolio Website** – Clean responsive personal website (coming soon)
+
+## 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mazharktk5&show_icons=true&theme=radical" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazharktk5&theme=radical" height="170px" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazharktk5&layout=compact&theme=radical" />
+</p>
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+
+**Happy coding! 🚀**
+
