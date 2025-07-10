@@ -61,7 +61,7 @@
 ### 📫 Connect with Me
 
 - 🌐 LinkedIn: [linkedin.com/in/mazhar-ahmad](https://www.linkedin.com/in/mazhar-ahmad)
-- 📬 Email: `mazharahmad.dev@gmail.com`
+- 📬 Email: `mazharahmad862@gmail.com`
 - 💼 Portfolio (Coming Soon): `https://mazharahmad.dev`
 
 ---
