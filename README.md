@@ -95,7 +95,7 @@ I’m currently a **5th semester Computer Science student at the University of P
 - 🔭 Currently working on MERN stack projects with Tailwind CSS
 - 🌱 Learning Python for AI/ML and LeetCode problem solving
 - 💬 Ask me about JavaScript, MongoDB, Node.js, React, and Python
-- 📫 Reach me at: mazharktk5@gmail.com
+- 📫 Reach me at: mazharahmad862@gmail.com
 - ⚡ Fun fact: I think more about solving bugs than eating food 😄
 
 ## 🛠️ Skills
@@ -122,6 +122,9 @@ I’m currently a **5th semester Computer Science student at the University of P
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazharktk5&layout=compact&theme=radical" />
 </p>
+
+### ⚡ Fun Fact
+> *"Sometimes I debug code better in my dreams than when I’m awake."*
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
 
