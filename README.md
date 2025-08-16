@@ -108,8 +108,15 @@ I’m currently a **5th semester Computer Science student at the University of P
 
 ## 🌟 Featured Projects
 
-- **MERN Ecommerce App** – Admin & user dashboards, authentication, product filter, Stripe & WhatsApp order integration
-- **Weather App** – Real-time weather data using APIs
+- **MERN Ecommerce App** – Admin & user dashboards, authentication, product filter, Stripe & WhatsApp order integration  
+  [🔗 Live Demo](https://all-turkey-branded-products.vercel.app/)  
+
+- **Nova Suite Project** – A modern AI-powered productivity suite  
+  [🔗 View Project](https://nova-suite-ai.vercel.app/)  
+
+- **Code Club Website** – Official website for Code Club  
+  [🔗 Visit Website](https://codeclub.tech)  
+
 - **Portfolio Website** – Clean responsive personal website (coming soon)
 
 ## 📊 GitHub Stats & Contributions
