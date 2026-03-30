@@ -109,7 +109,9 @@ I’m currently a **5th semester Computer Science student at the University of P
 
 
 ## 🌟 Featured Projects
-
+- **Haasil A multi vendor ecomerce platform** – Admin & user dashboards, authentication, product filter, Stripe & WhatsApp order integration  
+  [🔗 Live Demo](https://haasil.store)
+  
 - **MERN Ecommerce App** – Admin & user dashboards, authentication, product filter, Stripe & WhatsApp order integration  
   [🔗 Live Demo](https://all-turkey-branded-products.vercel.app/)  
 
