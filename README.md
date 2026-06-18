@@ -109,6 +109,10 @@ I’m currently a **5th semester Computer Science student at the University of P
 
 
 ## 🌟 Featured Projects
+
+- **Computing Students Society Website** – Admin & user dashboards, authentication, Events, Gallery, Team members, Events Regsitration, Events Certificates.  
+  [🔗 Live Demo](https://cssuop.org)
+  
 - **Haasil A multi vendor ecomerce platform** – Admin & user dashboards, authentication, product filter, Stripe & WhatsApp order integration  
   [🔗 Live Demo](https://haasil.store)
   
@@ -121,7 +125,8 @@ I’m currently a **5th semester Computer Science student at the University of P
 - **Code Club Website** – Official website for Code Club  
   [🔗 Visit Website](https://codeclub.tech)  
 
-- **Portfolio Website** – Clean responsive personal website (coming soon)
+- **Portfolio Website** – Clean responsive personal website..
+   [🔗 Visit Website](https://mazharahmad.dev) 
 
 ## 📊 GitHub Stats & Contributions
 
