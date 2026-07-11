@@ -82,7 +82,7 @@
 
 Hello there! I'm **Mazhar Ahmad**, a passionate developer from Pakistan. Welcome to my GitHub profile. Here you'll find a collection of my open-source projects, contributions, and learning journey.
 
-I’m currently a **5th semester Computer Science student at the University of Peshawar** and a **Full Stack Developer (MERN)**. I'm also exploring the exciting world of **AI, Machine Learning, and Robotics** — always ready to embrace new challenges and technologies.
+I’m currently a **6th semester Computer Science student at the University of Peshawar** and a **Full Stack Developer (MERN)**. I'm also exploring the exciting world of **AI and software engineering** — always ready to embrace new challenges and technologies.
 
 ## 📞 Let's Connect
 
@@ -93,7 +93,7 @@ I’m currently a **5th semester Computer Science student at the University of P
 ## 🚀 Quick Overview
 
 - 🔭 Currently working on MERN stack projects with Tailwind CSS
-- 🌱 Learning Python for AI/ML and LeetCode problem solving
+
 - 💬 Ask me about JavaScript, MongoDB, Node.js, React, and Python
 - 📫 Reach me at: mazharahmad862@gmail.com
 - ⚡ Fun fact: I think more about solving bugs than eating food 😄
