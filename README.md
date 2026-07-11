@@ -82,7 +82,7 @@
 
 Hello there! I'm **Mazhar Ahmad**, a passionate developer from Pakistan. Welcome to my GitHub profile. Here you'll find a collection of my open-source projects, contributions, and learning journey.
 
-I’m currently a **6th semester Computer Science student at the University of Peshawar** and a **Full Stack Developer (MERN)**. I'm also exploring the exciting world of **AI and software engineering** — always ready to embrace new challenges and technologies.
+I’m currently a **7th semester Computer Science student at the University of Peshawar** and a **Full Stack Developer (MERN)**. I'm also exploring the exciting world of **AI and software engineering** — always ready to embrace new challenges and technologies.
 
 ## 📞 Let's Connect
 
