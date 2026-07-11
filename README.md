@@ -12,9 +12,9 @@
 ---
 
 ### 🔥 About Me
-- 🎓 I’m a 4th semester Computer Science student at **University of Peshawar**  
+- 🎓 I’m a 7th semester Computer Science student at **University of Peshawar**  
 - 💻 I work with **MERN Stack** (MongoDB, Express, React, Node.js)  
-- 🤖 Currently learning **AI, ML, and Robotics with Python**  
+
 - 🛠️ I love building projects that solve real-world problems  
 - 🧠 Always learning, always building!
 
